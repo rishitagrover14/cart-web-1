@@ -1,0 +1,57 @@
+.offers-section .offer-card {
+    padding: 20px;
+    border-radius: 10px;
+    color: #ffffff;
+    text-align: center;
+  }
+  .offer-btn {
+    background-color: white;
+    color: green;
+    padding: 8px 12px;
+    border-radius: 20px;
+    border: none;
+  }
+  .search-bar {
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+  }
+  .cart-icon {
+    font-size: 18px;
+  }
+  .item-card {
+    background-color: #f3f3f3;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  .quantity-control button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 50%;
+  }
+  .checkout-btn {
+    background-color: green;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 20px;
+  }
+  .cart-summary {
+    background-color: #f3f3f3;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .pay-btn {
+    background-color: green;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+  }
+  
